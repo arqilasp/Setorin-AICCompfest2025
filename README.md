@@ -1,5 +1,6 @@
 # REPOSITORY INI MERUPAKAN HASIL MIGRATION, KARENA REPO UTAMA TERKENA SUSPEND
 <img width="1251" height="484" alt="image" src="https://github.com/user-attachments/assets/f7cfd17e-5560-4705-a134-6f1ef27ec4a5" />
+<img width="1251" height="484" alt="image" src="https://github.com/user-attachments/assets/5d910729-0455-4eda-8a85-4e67fac0a564" />
 
 
 # ♻️ Setorin – AI-Powered Recycling System
