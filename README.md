@@ -1,3 +1,7 @@
+# REPOSITORY INI MERUPAKAN HASIL MIGRATION, KARENA REPO UTAMA TERKENA SUSPEND
+<img width="1251" height="484" alt="image" src="https://github.com/user-attachments/assets/f7cfd17e-5560-4705-a134-6f1ef27ec4a5" />
+
+
 # ♻️ Setorin – AI-Powered Recycling System
 [![Docker](https://img.shields.io/badge/Docker-Ready-blue.svg)](https://docker.com)
 [![Next.js](https://img.shields.io/badge/Next.js-14+-black)](https://nextjs.org)
